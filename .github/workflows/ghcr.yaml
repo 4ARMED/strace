@@ -1,4 +1,4 @@
-name: Build and Push Client Image
+name: Build and Push Image
 on: [push]
 env:
   IMAGE_NAME: ghcr.io/4armed/strace
